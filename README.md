@@ -4,7 +4,7 @@
 
 I build production-ready AI systems that automate business workflows, improve customer support, and solve real-world problems.
 
-Over the last **2+ years**, I've worked with international clients to design and deploy AI applications across e-commerce, healthcare, and real estate.
+Over the last **3+ years**, I've worked with international clients to design and deploy AI applications across e-commerce, healthcare, and real estate.
 
 ---
 
