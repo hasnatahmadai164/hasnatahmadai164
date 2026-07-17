@@ -107,7 +107,7 @@ on AI Engineering, Agentic AI, RAG, and production AI development.
 
 ## Experience Highlights
 
-* 2+ years building AI systems
+* 3+ years building AI systems
 * International client experience
 * Production AI applications
 * Multi-Agent architectures
