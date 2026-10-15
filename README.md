@@ -122,6 +122,6 @@ on AI Engineering, Agentic AI, RAG, and production AI development.
 
 I'm always interested in discussing AI Engineering, Agentic AI, RAG, Voice AI, and opportunities to build production AI systems.
 
-* LinkedIn: 13K+ followers
+* LinkedIn: 15K+ followers
 * GitHub: Building production AI projects and open-source tools
 
